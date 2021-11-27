@@ -1,0 +1,15 @@
+Enter a random number(0-10): 
+5
+Your number is too low
+Enter a random number(0-10): 
+6
+Your number is too low
+Enter a random number(0-10): 
+7
+Your number is too low
+Enter a random number(0-10): 
+8
+Your number is too low
+Enter a random number(0-10): 
+9
+Congratulations!
