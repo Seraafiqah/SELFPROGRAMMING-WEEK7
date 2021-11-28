@@ -1,0 +1,27 @@
+package RepetitionandSelection;
+
+import java.util.Scanner;
+
+public class bankPass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+Scanner sc = new Scanner (System.in);
+int i = 0;
+int password= 987654;
+int passwordin;
+
+	System.out.println("Enter your password"); 
+	passwordin = sc.nextInt();
+	while (i<=3) 
+		
+		if(passwordin == password) {
+			System.out.println("your password is correct");
+		}
+		else {
+			System.out.println("Please enter your password");
+			passwordin = sc.nextInt();
+	}
+	}
+
+}
